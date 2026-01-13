@@ -47,7 +47,6 @@ As the **Business Analyst**, I was responsible for:
 - ⚙️ Functional and non-functional requirements
 - 💰 Delivery roadmap and cost–benefit analysis
 
-All documentation is structured to align with real-world enterprise delivery standards.
 
 ---
 
