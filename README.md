@@ -1,37 +1,86 @@
-# Soma Membership Portal
+# 🌍 Soma Membership Portal  
+**📊 Business Analysis Portfolio Project**
 
-## Project Overview
-The Soma Membership Portal is a digital platform designed to support the Somalian migrant community in New Zealand by enabling online membership registration, financial contributions, loan requests, international money transfers, and community project engagement.
+---
 
-This project demonstrates business analysis capabilities including requirements elicitation, solution design, stakeholder analysis, and delivery planning.
+## 👋 Overview
+The Soma Membership Portal is a digital transformation initiative designed to support the Somalian migrant community in New Zealand. The project replaces a manual, paper-based membership process with a secure, scalable online platform.
 
-## Objectives
-- Enable self-service membership registration
-- Provide secure e-wallet and payment integration
-- Support loan requests and community projects
-- Improve accessibility regardless of geographical location
+This repository demonstrates my end-to-end **Business Analysis capability**, from problem definition through to solution requirements and delivery planning.
 
-## Scope
-**In Scope**
-- Web and mobile access
-- Membership registration and verification
-- E-wallet and payment integration
-- Community projects and reporting
+---
 
-**Out of Scope**
-- End-user training
+## ❗ Problem Statement
+The organisation relied on location-based, manual processes that:
+- 🚫 Limited accessibility for members
+- 🧑‍💼 Required high levels of human intervention
+- ⚠️ Increased operational risk and inefficiency
+- 📉 Did not scale with community growth
 
-## Documentation
-- Business Requirements Document (BRD)
-- Solution Requirements Specification (SRS)
-- User Stories and Acceptance Criteria
-- Epics and Feature Backlog
+---
 
-## Methodology
-- Agile-inspired delivery
-- Epics → User Stories → Acceptance Criteria
-- MVP-first approach
+## 🎯 Business Objectives
+- 👥 Achieve 500 registered members within the first year
+- 📝 Enable self-service online registration and verification
+- 💳 Introduce secure e-wallet and payment functionality
+- 🤝 Support loan requests and community projects
+- 📈 Provide real-time reporting and administrative oversight
 
-## Author
-Sunny Vo  
-Business Analyst
+---
+
+## 🧠 My Role – Business Analyst
+As the **Business Analyst**, I was responsible for:
+
+- 🗣️ Requirements elicitation and documentation
+- 🧩 Stakeholder analysis and alignment
+- 🧭 Defining scope, constraints, and MVP
+- 🔄 Translating business needs into functional requirements
+- 🧪 Writing user stories and acceptance criteria
+- 📅 Supporting delivery planning and prioritisation
+
+---
+
+## 📦 Key Deliverables
+- 📄 **Business Requirements Document (BRD)**
+- 🧾 **Solution Requirements Specification (SRS)**
+- 🧩 Epics, user stories, and acceptance criteria
+- ⚙️ Functional and non-functional requirements
+- 💰 Delivery roadmap and cost–benefit analysis
+
+All documentation is structured to align with real-world enterprise delivery standards.
+
+---
+
+## 📐 Solution Scope
+
+### ✅ In Scope
+- 🌐 Web and mobile access
+- 🧑‍💻 Member self-registration and profile management
+- 💼 E-wallet and payment integration
+- 💸 Loan request submission
+- 🌱 Community project management
+- 📊 Reporting and analytics
+
+### 🚫 Out of Scope
+- 🎓 End-user training
+
+---
+
+## 🛠️ Methodology
+- 🔁 Agile-inspired delivery
+- 📌 Epic → User Story → Acceptance Criteria structure
+- 🚀 MVP-first approach
+- 🧱 Clear separation of business and solution requirements
+
+---
+
+## 🗂️ Repository Structure
+```text
+docs/
+├── BRD/              # Business Requirements
+├── SRS/              # Solution Requirements
+├── User_Stories/     # User stories & acceptance criteria
+backlog/
+├── epics_and_features.md
+diagrams/
+├── use_case_diagram.png
