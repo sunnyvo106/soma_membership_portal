@@ -2,15 +2,10 @@
 
 ---
 
-## Epic 1: Member Self-Registration
+| Story ID | User Role | User Story                                                                                                                   | Acceptance Criteria (Steps)                                                                                                                                                                                                                                 | Priority |
+| -------- | --------- | ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| US-1.1   | New User  | As a new user, I want to register on the Soma website using my email so that I can start my membership registration process. | **Given** I am a new user on the Soma landing page<br>**When** I click the **Sign Up** button<br>**And** I enter my email, first name, last name, and password<br>**And** I click **Register**<br>**Then** a registration email is sent to my email address | Critical |
 
-| Story ID | User Story | Acceptance Criteria | Priority |
-|--------|-----------|--------------------|----------|
-| US-1.1 | As a new member, I want to register using my email so that I can start my membership process. | Email, name, and password required; registration email sent; link expires after 72 hours | Critical |
-| US-1.2 | As a member, I want to complete my registration so that I can access the portal. | Personal details entered; ID uploaded; confirmation email sent | Critical |
-| US-1.3 | As a member, I want to set up an e-wallet so that I can link my bank account. | User logged in; payment method saved securely | Critical |
-
----
 
 ## Epic 2: Website & Navigation
 
